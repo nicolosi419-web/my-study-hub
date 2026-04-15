@@ -1,0 +1,15 @@
+{
+  "name": "AI Study Hub",
+  "short_name": "StudyHub",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b141a",
+  "theme_color": "#00a884",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/00a884/ffffff?text=STUDY",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

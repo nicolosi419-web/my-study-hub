@@ -1,3 +1,4 @@
+self.addEventListener('fetch', function(event) {});
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -243,3 +244,6 @@
 </script>
 </body>
 </html>
+self.addEventListener('fetch', function(event) {
+    // Service worker base per abilitare la PWA
+});
